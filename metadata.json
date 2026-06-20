@@ -1,0 +1,6 @@
+{
+  "name": "AdiaSearch",
+  "description": "Premium universal AI-powered search, fact-checking, source comparison, and deep research engine.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
